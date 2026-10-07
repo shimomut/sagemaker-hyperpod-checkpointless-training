@@ -12,3 +12,4 @@ cupti_module.*.so
 .crux_dry_run_build
 .DS_Store
 brazil.ion
+.claude/settings.local.json
